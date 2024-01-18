@@ -2,6 +2,10 @@
 
 *** This is a copy from another repository with some packages removed. Core components are still intact. ***
 
+<p align="center">
+  <img alt="Preview" width="660" alt="preview" src="https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/environment_lighting.png">
+<p align="center">
+  
 ## Vision
 The Pre-Trip Inspection Training Module was developed for Humulo to explore solutions in VR training to improve the learning experience for prospective truck drivers. Offering this training through VR allows users to train at their own pace, without the need for a physical truck. Offsite allows for a risk-free and accessible training solution. Through hands-on interactive learning, users are taught procedures in a multimodal learning style — auditory, visual and tactile.  
 
@@ -11,7 +15,7 @@ The training module educates prospective commercial drivers with the essential t
 Deliverables for this project included a modular Unity project that can be used by the Humulo team for further research and development for their training products. Given the VFS team operated with Meta Quest 2 HMDs while Humulo uses Pico 4s, the project was developed with OpenXR. This would allow for the project to be adaptable to any standalone device system requirements. Through the design and development process, documentation of work was shared to communicate and discuss with the client. Users flows, personas, scenarios and storyboards were created iteratively to align Humulos goals within the capacity of the VFS team. Screen recordings of interactions, UI and narrative sections were shared to communicate Unity development. An APK was built for mobile on-device testing and feedback by Humulo. 
 
 ## Project Charter
-
+https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/Project%20Charter%20Proposal%20-%20Humulo.pdf
 
 ## Features
 - [x] UI Panels for detailed instructions
@@ -25,3 +29,17 @@ Deliverables for this project included a modular Unity project that can be used 
 
 * Audio
 - [x] A.I. generated audio instructions
+
+## Visuals
+<p align="center">
+  <img alt="Preview" width="500" alt="preview" src="https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/UI.png">
+<p align="center">
+<p align="center">
+  <img alt="Preview" width="500" alt="preview" src="https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/Pete.png">
+<p align="center">
+<p align="center">
+  <img alt="Preview" width="500" alt="preview" src="https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/Checklist.png">
+<p align="center">
+
+## Final Presentation
+https://github.com/erickleclerc/PreTripInpection-Humulo/blob/main/Media/Final%20Presentation%20-%20Pre%20Trip.pdf
